@@ -1,4 +1,4 @@
-# Phaser - SocketIO - Typescript
+# phaser-socketio-ts
 
 This is a template repo for Phaser, SocketIO, and Typescript. This repo was configured to make it as simple as possible to develop a game using the technologies.
 
